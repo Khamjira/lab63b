@@ -7,7 +7,11 @@
 ## อุปกรณ์ที่ใช้
 1. ไมโครคอนโทรลเลอร์
 2. สายUSB
-3. USB2Serial converter
+3. Serial converter
 
 ## ศึกษาข้อมูลเบื้องต้น
-https://learninginventions.org - automatic!
+https://learninginventions.org 
+
+## วิธีทำการทดลอง
+1. ต่อสายUSB เข้ากับ Serial Converter
+![](/images/)
