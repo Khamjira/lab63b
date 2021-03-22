@@ -10,7 +10,8 @@
 3. Serial converter
 
 ## ศึกษาข้อมูลเบื้องต้น
-https://learninginventions.org 
+* https://learninginventions.org 
+* https://www.youtube.com/watch?v=NLIUsWLEpmg
 
 ## วิธีทำการทดลอง
 1. ต่อสายUSB เข้ากับ Serial Converter
@@ -18,3 +19,13 @@ https://learninginventions.org
 
 2. ต่อเข้ากับไมโครคอนโทรลเลอร์
     ![IMG-3494](https://user-images.githubusercontent.com/80879116/112004142-1cb3ef00-8b54-11eb-9b21-b69a5eb8b125.jpg)
+    
+    
+3. เขียนโปรแกรมโดยใช้ตามตัวอย่างที่ 1
+
+## บันทึกผลการทดลอง
+
+
+## อภิปรายผลการทดลอง
+
+## คำถามหลังการทดลอง
