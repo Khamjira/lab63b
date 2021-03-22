@@ -14,4 +14,7 @@ https://learninginventions.org
 
 ## วิธีทำการทดลอง
 1. ต่อสายUSB เข้ากับ Serial Converter
-![](/images/)
+   ![IMG-3493](https://user-images.githubusercontent.com/80879116/112003626-a1ead400-8b53-11eb-8f3d-2993e1edc97c.jpg)
+
+2. ต่อเข้ากับไมโครคอนโทรลเลอร์
+    ![IMG-3494](https://user-images.githubusercontent.com/80879116/112004142-1cb3ef00-8b54-11eb-9b21-b69a5eb8b125.jpg)
