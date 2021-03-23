@@ -45,10 +45,10 @@
       > ![18](https://user-images.githubusercontent.com/80879116/112182983-5d813600-8c30-11eb-92a8-08641714cd90.png)
    
    10. หน้าเซนเซอร์เปิด
-      > ![19](https://user-images.githubusercontent.com/80879116/112183431-d3859d00-8c30-11eb-9bd6-33386b7effed.png)
+       > ![19](https://user-images.githubusercontent.com/80879116/112183431-d3859d00-8c30-11eb-9bd6-33386b7effed.png)
 
    11. นำนิ้วไปปิดหน้าเซนเซอร์
-      > ![20](https://user-images.githubusercontent.com/80879116/112183609-0039b480-8c31-11eb-9246-754d35913921.png)
+       > ![20](https://user-images.githubusercontent.com/80879116/112183609-0039b480-8c31-11eb-9246-754d35913921.png)
   
   
   ## บันทึกผลการทดลอง
