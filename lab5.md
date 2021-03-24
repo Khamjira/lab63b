@@ -24,7 +24,7 @@
        > ![25](https://user-images.githubusercontent.com/80879116/112281705-ef348600-8cb8-11eb-8376-4cefc3429171.png)
    
    4. กดปุ่มศูนย์ หรือ port0 และก็กด RESET
-      > ![26](https://user-images.githubusercontent.com/80879116/112282067-53574a00-8cb9-11eb-9072-423477ba6bcc.png)
+       > ![26](https://user-images.githubusercontent.com/80879116/112282067-53574a00-8cb9-11eb-9072-423477ba6bcc.png)
 
    
 
