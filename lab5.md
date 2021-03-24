@@ -12,6 +12,7 @@
 
 ## ศึกษาข้อมูลเบื้องต้น
    * https://www.youtube.com/watch?v=VX-QNQcO-b4
+   * https://cc.swu.ac.th/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3/I-Pass.aspx
 
 ## วิธีทำการทดลอง
 
