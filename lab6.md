@@ -15,20 +15,20 @@
    * http://fitrox.lnwshop.com/article/29/
 
 ## วิธีทำการทดลอง
-    1. Source Code
+   1. Source Code
        >  ![27](https://user-images.githubusercontent.com/80879116/112287984-7e449c80-8cbf-11eb-8b1f-a23daa29049b.png)
        >  ![28](https://user-images.githubusercontent.com/80879116/112289043-83eeb200-8cc0-11eb-9012-14759930bfe8.png)
        
-    2. upload program เข้าไปในไมโครคอนโทรลเลอร์
+   2. upload program เข้าไปในไมโครคอนโทรลเลอร์
        > ![29](https://user-images.githubusercontent.com/80879116/112289428-e5af1c00-8cc0-11eb-847f-061f6fd70026.png)
     
-    3. กดปุ่มรีเซ็ต
+   3. กดปุ่มรีเซ็ต
        > ![30](https://user-images.githubusercontent.com/80879116/112289749-27d85d80-8cc1-11eb-8fb0-71b424f022aa.png)
     
-    4. ดูผลลัพธ์การรัน โดยใช้คำสั่ง pio device monitor
+   4. ดูผลลัพธ์การรัน โดยใช้คำสั่ง pio device monitor
        > ![31](https://user-images.githubusercontent.com/80879116/112290169-8998c780-8cc1-11eb-8d04-fe2f8d77085c.png)
       
-    5. ทดสอบโดยใช้โทรศัพท์มือถือค้นหาไวไฟ
+   5. ทดสอบโดยใช้โทรศัพท์มือถือค้นหาไวไฟ
        > ![32](https://user-images.githubusercontent.com/80879116/112290512-e4322380-8cc1-11eb-8c34-08b6f719ce5b.png)
 
 
