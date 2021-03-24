@@ -12,7 +12,7 @@
 
 ## ศึกษาข้อมูลเบื้องต้น
     * https://www.youtube.com/watch?v=T26DVHePlTs
-    * http://fitrox.lnwshop.com/article/29/esp8266-%E0%B8%95%E0%B8%AD%E0%B8%99-2-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-part-1-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99
+    * http://fitrox.lnwshop.com/article/29/
 
 ## วิธีทำการทดลอง
     1. Source Code
