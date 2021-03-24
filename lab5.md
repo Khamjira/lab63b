@@ -7,4 +7,29 @@
    2. สายUSB
    3. USB2Serial converter
 
-## 
+## ศึกษาข้อมูลเบื้องต้น
+   * https://www.youtube.com/watch?v=VX-QNQcO-b4
+
+## วิธีทำการทดลอง
+
+   1. เขียนโปรแกรมโดยใช้ตามตัวอย่าง ที่เขียนด้วนภาษา C และ C++
+       > ![21](https://user-images.githubusercontent.com/80879116/112279707-cb704080-8cb6-11eb-83e3-b23677d9e354.png)
+       > ![22](https://user-images.githubusercontent.com/80879116/112280652-ce1f6580-8cb7-11eb-8e59-2cb467e81454.png)
+  
+   2. upload program โดยใช้คำสั่ง pio run -t upload
+       > ![23](https://user-images.githubusercontent.com/80879116/112281031-33735680-8cb8-11eb-9a37-b19714dd57ba.png)
+   
+   3.ต่อไมโครคอนโทรลเลอร์เข้ากับ USB2Serial
+       > ![24](https://user-images.githubusercontent.com/80879116/112281327-83eab400-8cb8-11eb-8193-559a9f508b6a.png)
+       > ![25](https://user-images.githubusercontent.com/80879116/112281705-ef348600-8cb8-11eb-8376-4cefc3429171.png)
+   
+   4. กดปุ่มศูนย์ หรือ port0 และก็กด RESET
+      > ![26](https://user-images.githubusercontent.com/80879116/112282067-53574a00-8cb9-11eb-9072-423477ba6bcc.png)
+
+   
+
+
+## บันทึกผลการทดลอง
+       > ป้อนชื่อไวไฟและรหัสผ่าน ในส่วนของคำสั่ง SETUP เป็นการเชื่อมต่อกับไวไฟที่ได้ทำการเลือกไว้ ถ้ามีการเชื่อต่อจะแสดงผลว่า Hello cnt เมื่ออัปโหลดโปรแกรม
+         ขึ้นไปบนไมโครคอนโทรลเลอร์ จากนั้นทำการต่อไมโครคอนโทรลเลอร์เข้ากับ USB2Serial และกดไปที่รีเซ็ต ตัวไมโครคอนโทรลเลอร์จึงพร้อมที่จะรับโปรแกรมเข้ามา
+         ในขณะที่โปรแกรมเตรียมส่งข้อมูลขึ้นมาที่ไมโครคอนโทรลเลอร์ ในการที่จะทดสอบโปรแกรมนี้ต้องใช้ Web Browser เข้ามาเกี่ยวข้อง
