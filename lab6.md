@@ -11,13 +11,13 @@
    3. USB2Serial converter
 
 ## ศึกษาข้อมูลเบื้องต้น
-    * https://www.youtube.com/watch?v=T26DVHePlTs
-    * http://fitrox.lnwshop.com/article/29/
+   * https://www.youtube.com/watch?v=T26DVHePlTs
+   * http://fitrox.lnwshop.com/article/29/
 
 ## วิธีทำการทดลอง
     1. Source Code
-       > ![27](https://user-images.githubusercontent.com/80879116/112287984-7e449c80-8cbf-11eb-8b1f-a23daa29049b.png)
-       > ![28](https://user-images.githubusercontent.com/80879116/112289043-83eeb200-8cc0-11eb-9012-14759930bfe8.png)
+       >  ![27](https://user-images.githubusercontent.com/80879116/112287984-7e449c80-8cbf-11eb-8b1f-a23daa29049b.png)
+       >  ![28](https://user-images.githubusercontent.com/80879116/112289043-83eeb200-8cc0-11eb-9012-14759930bfe8.png)
        
     2. upload program เข้าไปในไมโครคอนโทรลเลอร์
        > ![29](https://user-images.githubusercontent.com/80879116/112289428-e5af1c00-8cc0-11eb-847f-061f6fd70026.png)
