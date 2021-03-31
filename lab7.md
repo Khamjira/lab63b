@@ -24,7 +24,14 @@
    > ![cd2](https://user-images.githubusercontent.com/80879116/113143868-d8f96d80-9256-11eb-848d-6d7383478475.png)
 
 3. code ในส่วนของ setup
-   > ![cd3](https://user-images.githubusercontent.com/80879116/113144984-13afd580-9258-11eb-8475-4a40726ed6a8.png)
+   > ![cd4](https://user-images.githubusercontent.com/80879116/113147735-49a28900-925b-11eb-8922-b0e1c2b5c97e.png)
 
 4. code ในส่วนของ loop
-   > 
+   > ![cd5](https://user-images.githubusercontent.com/80879116/113147956-853d5300-925b-11eb-9626-37afaa4e9db0.png)
+
+## สรุปการแก้ไขในส่วนของ Code
+  1. มีการใช้ \n \t เข้ามาใช้แทนที่ในส่วนของ println
+  2. เพิ่มตัวแปร ในส่วนของดีเลย์
+  3. ปรับการเขียน Serial.print ให้มีบรรทัดน้อยลง แต่การแสดงผลยังคงเดิม
+  4. ปรับการเขียนด้วย For loop เป็น While loop
+
