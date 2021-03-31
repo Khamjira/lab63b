@@ -13,38 +13,9 @@
 * https://www.youtube.com/watch?v=yBjab0UNuB8
 
 ## Source Code
-   > #include <Arduino.h>
-   > #include <ESP8266WiFi.h>
+   * ![code12](https://user-images.githubusercontent.com/80879116/113142629-4f956b80-9255-11eb-8c09-b49059cda92c.png)
 
-   > int cnt = 0;
-
-   > void setup()
-     > {
-	>Serial.begin(115200);
-	>WiFi.mode(WIFI_STA);
-	>WiFi.disconnect();
-	>int d = 500;
-	>delay(d);
-	>Serial.println("\n\n\n");
-     >}
-
-   > void loop()
-    > {
-	>Serial.print("========== เริ่มต้นแสกนหา Wifi ===========\n");
-	>int n = WiFi.scanNetworks();
-	>int i = 0;
-	>if(n == 0) {
-		>Serial.println("NO NETWORK FOUND");
-	>} else {
-		>while(i<n) {
-			>Serial.print(i + 1 ,": ", WiFi.SSID(i)\t);
-			>Serial.println(" (", WiFi.RSSI(i),")");
-			>Serial.print(WiFi.channel(i));
-			>delay(10);
-			>i++;
-		>}
-	>}
-	>Serial.println("\n\n");
-	>delay(10 * 1000);
-      >}
+## คำอธิบาย
+   1.อ้างอิงไฟล์ Arduino.h และไฟล์ ESP8266WiFi.h
+      > ![cd1](https://user-images.githubusercontent.com/80879116/113143368-435dde00-9256-11eb-9354-618b64340c94.png)
       
