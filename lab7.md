@@ -13,6 +13,9 @@
 ## ศึกษาข้อมูลเบื้องต้น
 * https://www.youtube.com/watch?v=yBjab0UNuB8
 * https://www.ioxhop.com/article/71/esp32
+* https://www.arduinoall.net/arduino-tutor/lessons/9-loop-ok/
+* https://www.youtube.com/watch?v=j0XMHydEOdM
+* https://medium.com/@pattanapong.sriph
 ## Source Code
    > ![code12](https://user-images.githubusercontent.com/80879116/113142629-4f956b80-9255-11eb-8c09-b49059cda92c.png)
 
